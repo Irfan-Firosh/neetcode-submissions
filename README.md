@@ -2,7 +2,6 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
----
 
 ## Repository structure
 
@@ -16,6 +15,4 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
     ...
 ```
 
-
----
 
